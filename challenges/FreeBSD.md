@@ -11,7 +11,7 @@
 
 ## Scoring (2 Points Each)
 - [x] Install BSD and get it online.
-- [ ] Record audio of you from a working desktop.
+- [x] Record audio of you from a working desktop.
 - [x] Get one "server or service" running, accessible via the LAN.
 
 ## Bonus Challenges (5 Points Each)
