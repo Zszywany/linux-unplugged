@@ -18,7 +18,7 @@
 - [ ] Get an app running inside Podman or Jails.
 - [x] Install and configure a firewall.
 - [x] Get Tailscale working on a BSD system.
-- [ ] Try out two BSDs (e.g., NetBSD/GhostBSD + FreeBSD).
+- [x] Try out two BSDs (e.g., NetBSD/GhostBSD + FreeBSD).
 - [ ] Nix BSD.
 - [ ] Get a non-BSD native video game running.
 
