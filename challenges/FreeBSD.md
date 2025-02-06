@@ -10,14 +10,14 @@
 - You may petition for extra credit, but a quorum is required to accept.
 
 ## Scoring (2 Points Each)
-- Install BSD and get it online.
+- [x] Install BSD and get it online.
 - Record audio of you from a working desktop.
-- Get one "server or service" running, accessible via the LAN.
+- [x] Get one "server or service" running, accessible via the LAN.
 
 ## Bonus Challenges (5 Points Each)
 - Get an app running inside Podman or Jails.
-- Install and configure a firewall.
-- Get Tailscale working on a BSD system.
+- [x] Install and configure a firewall.
+- [x] Get Tailscale working on a BSD system.
 - Try out two BSDs (e.g., NetBSD/GhostBSD + FreeBSD).
 - Nix BSD.
 - Get a non-BSD native video game running.
