@@ -15,7 +15,7 @@
 - [x] Get one "server or service" running, accessible via the LAN.
 
 ## Bonus Challenges (5 Points Each)
-- [ ] Get an app running inside Podman or Jails.
+- [x] Get an app running inside Podman or Jails.
 - [x] Install and configure a firewall.
 - [x] Get Tailscale working on a BSD system.
 - [x] Try out two BSDs (e.g., NetBSD/GhostBSD + FreeBSD).
